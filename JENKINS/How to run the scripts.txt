@@ -1,0 +1,9 @@
+Step 1 : Run the script "jenkins_script.sh".
+
+Step 2: Once Jenkins is up, login with the admin password displayed in the window.
+
+step 3: Open another command line and run the script "jenkins_plugins_new.sh"
+
+Note: If you change the admin password from the default password, make changes in the script before proceeding this step.
+
+All plugins will be successfully installed in Jenkins after this.
